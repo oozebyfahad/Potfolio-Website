@@ -1,4 +1,4 @@
-# webtech - Portfolio-website
+# Portfolio-website
 The website is built using Bootstrap for responsive design and Font Awesome for icons, ensuring a modern and visually appealing user experience. 
 Dependencies:
 
